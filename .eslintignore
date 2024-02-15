@@ -1,0 +1,9 @@
+/dist
+*.scss
+*.css
+/node_modules
+/build
+jest.setup.ts
+jest.config.js
+/test/__mocks__/fileMock.js
+commitlint.config.js
